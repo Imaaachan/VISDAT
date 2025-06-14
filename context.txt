@@ -1,0 +1,35 @@
+===GEO_PICT===
+
+'CK' = 'Cook Islands'
+'WS' = 'Samoa'
+'PF' = 'French Polynesia'
+'PG' = 'Papua New Guinea'
+'MH' = 'Marshall Islands'
+'FJ' = 'Fiji'
+'VU' = 'Vanuatu'
+'KI' = 'Kiribati'
+'FM' = 'Micronesia (Federated States of)'
+'PW' = 'Palau'
+'NR' = 'Nauru'
+'TV' = 'Tuvalu'
+'NU' = 'Niue'
+'SB' = 'Solomon Islands'
+'NC' = 'New Caledonia'
+'TO' =  'Tonga'
+
+===INDICATOR===
+
+AG_PRD_FIESMS	    Prevalence of moderate or severe food insecurity in the\n population
+EN_MAR_BEALITSQ	    Beach litter per square kilometer (Number)
+ER_GRF_PLNTSTOR	    Plant genetic resources accessions stored ex situ (number)
+ER_H2O_FWTL	        Proportion of fish stocks within biologically sustainable\n levels (not overexploited)
+ER_MRN_MARINKBA	    Protected area coverage for marine (Key Biodiversity Area)
+ER_PTD_TOT	        Average proportion of Freshwater and Terrestrial Key\n Biodiversity Areas (KBAs) covered by protected areas
+ER_RSK_LST	        Red List Index
+SPC_12_4_2	        Hazardous waste generated, per capita (Kg)
+SPC_12_5_1	        Municipal waste recycled (Tonnes)
+SPC_14_2_1	        Proportion of national exclusive economic zones managed using\n ecosystem-based approaches
+SPC_14_6_1	        Progress by countries in the degree of implementation of\n international instruments aiming to combat illegal, unreported and unregulated fishing\n (level of implementation: 1 lowest to 5 highest)
+SPC_14_b_1	        Degree of application of a\n legal/regulatory/policy/institutional framework which recognizes and protects access\n rights for small-scale fisheries (level of implementation: 1 lowest to 5 highest)
+SPC_15_8_1	        Countries adopting legislation for the prevention or control of\n invasive alien species
+SPC_2_4_1	        Proportion of agricultural area under productive and\n sustainable agriculture
