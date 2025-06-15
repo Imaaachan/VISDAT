@@ -134,7 +134,7 @@ country_coords = {
 # Get the corresponding INDICATOR code for the selected label
 indicator_code = df[df["INDICATOR_LABEL"] == selected_indicator]["INDICATOR"].iloc[0]
 
-st.title("🌊 Pacific Marine Pollution Dashboard")
+# st.title("🌊 Pacific Marine Pollution Dashboard")
 st.markdown(f"### Indicator: {selected_indicator}")
 st.markdown(indicator_descriptions.get(
     indicator_code,
